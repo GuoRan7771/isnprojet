@@ -1,0 +1,9 @@
+{
+    "utilisateur_id": 12345,
+    "lecons_terminees": [
+        "salutations",
+        "animaux"
+    ],
+    "dernier_acces": "2025-05-01T10:00:00",
+    "niveau": "débutant"
+}

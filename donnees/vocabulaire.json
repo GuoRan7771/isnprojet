@@ -1,0 +1,16 @@
+[
+    {
+        "mot_anglais": "Emma",
+        "traduction_francais": "Emma",
+        "traduction_chinois": "艾玛",
+        "exemples": [
+            {
+                "phrase": "Emma is a beautiful girl."
+            }
+        ],
+        "id_mot": "f44e856c-c522-4266-984f-c3537e7a8299",
+        "maitrise_eng_fr": 20,
+        "maitrise_fr_eng": 40,
+        "maitrise_eng_ch": 0
+    }
+]
